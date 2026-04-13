@@ -19,7 +19,7 @@ A desktop application built with Tkinter and FastAPI for:
 pip install -r requirements.txt
 ```
 
-### 4. Install FFmpeg
+### 2. Install FFmpeg
 
 install FFmpeg and add it to path:
 

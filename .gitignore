@@ -1,0 +1,19 @@
+# virtual env
+.venv/
+
+# outputs
+Json_Result/
+OutFrames/
+Output_Frames/
+outputs/
+
+# media files
+*.mp4
+*.jpg
+
+# YOLO models
+*.pt
+
+# python cache
+__pycache__/
+*.pyc
